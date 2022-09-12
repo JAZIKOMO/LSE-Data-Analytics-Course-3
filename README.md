@@ -14,7 +14,7 @@ LSE_DA301_assignment_report_Zikomo_Smith.pdf
 
 LSE_DA301_Assignment_Presentation_Zikomo_Smith_Presentation.mp4
 
-LSE_DA301_Assignment_Presentation_Zikomo_Smith.{DF
+LSE_DA301_Assignment_Presentation_Zikomo_Smith.pdf
 
 To access the LSE_DA301_Assignment_Presentation_Zikomo_Smith_Presentation.mp4, please download the file to your desktop and then rightclick and open with the windows media player or a similar video system.
 
