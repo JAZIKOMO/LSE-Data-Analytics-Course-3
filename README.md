@@ -30,6 +30,6 @@ Please access LSE_DA301_assignment_Weeks 4 to 6_template_EDA_Zikomo_Smith.R to a
 
 Please access and download the PDF report LSE_DA301_assignment_report_Zikomo_Smith.pdf to see the important patterns, trends, recommendations, data analysis processes, and the results of the predictive modelling.
 
-Please access and download the MP4 LSE_DA301_Assignment_Presentation_Zikomo_Smith.PDF to see the final presentaion.
+Please access and download the MP4 LSE_DA301_Assignment_Presentation_Zikomo_Smith.pdf to see the final presentaion.
 
 Please access and download the PDF of the powerpoint presentation LSE_DA301_Assignment_Presentation_Zikomo_Smith.pdf used in the recording.
