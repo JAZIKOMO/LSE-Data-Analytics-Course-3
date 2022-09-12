@@ -24,4 +24,4 @@ Please access and download the PDF report LSE_DA301_assignment_report_Zikomo_Smi
 
 Please access and download the MP4 LSE_DA301_Assignment_Presentation_Zikomo_Smith_Presentation.mp4 to see the final presentaion.
 
-Please access and download the PDF of the powerpoint presentation LLSE_DA301_Assignment_Presentation_Zikomo_Smith.pdf used in the recording.
+Please access and download the PDF of the powerpoint presentation LSE_DA301_Assignment_Presentation_Zikomo_Smith.pdf used in the recording.
